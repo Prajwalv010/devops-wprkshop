@@ -1,1 +1,1 @@
-print("heloo wowoww")
+print("heloo ")
